@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://entysec.netlify.app/img/banner.png" alt="logo" width="250px"></h3>
+<h3 align="center"><img src="https://entysec.netlify.app/img/banner.png" alt="logo" width="300px"></h3>
 
 <p align="center">
     <br>EntySec is a group of security professionals and software engineers
