@@ -1,5 +1,7 @@
 <h3 align="center"><img src="https://entysec.netlify.app/img/banner.png" alt="logo" width="50%"></h3>
 
+<h4><strong>Always a step ahead</strong></h4>
+
 <p align="center">
     <br>EntySec is a group of security professionals and software engineers
     <br>involved in the development of security tools and services.
