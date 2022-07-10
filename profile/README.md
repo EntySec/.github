@@ -1,6 +1,6 @@
 <h3 align="center"><img src="https://entysec.netlify.app/img/banner.png" alt="logo" width="50%"></h3>
 
-<h2 align="center"><strong>Always a step ahead</strong></h4>
+<h3 align="center"><strong>Always a step ahead</strong></h4>
 
 <p align="center">
     <br>EntySec is a group of security professionals and software engineers
