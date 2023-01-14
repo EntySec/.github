@@ -13,5 +13,5 @@
 <p align="center">
     We currently terminated our activity and moved all our
     <br>HR to the special group which is now developing a different project.
-    <br>Stay with us, we'll resume out activity soon.
+    <br>Stay with us, we'll resume our activity soon.
 </p>
