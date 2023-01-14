@@ -11,7 +11,7 @@
 
 <h3 align="center"><strong>We currently terminated our activity</strong></h4>
 <p align="center">
-    <br>We currently terminated our activity and moved all our HR to the special group
-    <br>which is now developing a different project.
+    <br>We currently terminated our activity and moved all our
+    <br>HR to the special group which is now developing a different project.
     <br>Stay with us, we'll resume out activity soon.
 </p>
