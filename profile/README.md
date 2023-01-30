@@ -8,10 +8,3 @@
     <br>
     <p align="center"><a href="https://entysec.com">About us</a> | <a href="mailto:entysec@gmail.com?subject=Application to join&body=Describe yourself here...">Join us</a> | <a href="https://github.com/orgs/EntySec/repositories">Our projects</a><p>
 </p>
-
-<h3 align="center"><strong>We currently terminated our activity</strong></h4>
-<p align="center">
-    We currently terminated our activity and moved all our
-    <br>HR to the special group which is now developing a different project.
-    <br>Stay with us, we'll resume our activity soon.
-</p>
