@@ -1,3 +1,6 @@
+**Warning**  
+> EntySec is currently searching for enthusiasts, who have specific knowledge in the sphere of PCB design and/or development of python3 software for Raspberry PI like hardware (including working with OLED screens). If you are interested [mail us](mailto:entysec@gmail.com) to get additional information on the project.
+
 <h3 align="center"><img src="https://entysec.netlify.app/img/banner.png" alt="logo" width="50%"></h3>
 
 <h3 align="center"><strong>Always go forward, never go down</strong></h4>
