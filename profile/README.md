@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://entysec.netlify.app/img/banner.png" alt="logo" width="50%"></h3>
+<h3 align="center"><img src="https://entysec.com/img/banner.png" alt="logo" width="50%"></h3>
 
 <h3 align="center"><strong>Always go forward, never go down</strong></h4>
 
