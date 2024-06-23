@@ -7,5 +7,5 @@
     <br>involved in the development of security tools and services.
     <br>
     <p align="center"><a href="https://entysec.com">About us</a> | <a href="https://entysec.com/join">Join us</a> | <a href="https://github.com/orgs/EntySec/repositories">Our projects</a><p>
-    <p align="center"><a href="https://github.com/sponsors/EntySec"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"></a><p>
+    <!--<p align="center"><a href="https://github.com/sponsors/EntySec"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"></a><p>-->
 </p>
